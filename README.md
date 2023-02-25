@@ -1,1 +1,3 @@
 # PickandPlaceTest
+
+これはPick and PlaceをテストするためのCADデータです
